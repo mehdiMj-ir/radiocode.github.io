@@ -26,7 +26,7 @@ jQuery(function ($) {
                 "track": 12,
                 "name": "Semantic Web",
                 "duration": "1:02:52",
-                "file": "ep01"
+                "file": "Ep12-Semantic-Web-RadioLUG"
             }, {
                 "track": 11,
                 "name": "GODOT - Game Engein!",
