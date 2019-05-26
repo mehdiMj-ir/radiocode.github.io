@@ -31,62 +31,62 @@ jQuery(function ($) {
                 "track": 11,
                 "name": "GODOT - Game Engein!",
                 "duration": "56:29",
-                "file": "ep02"
+                "file": "Ep11-GODOT-Game-Engein - RadioLUG"
             }, {
                 "track": 10,
                 "name": "Computer Vision",
                 "duration": "41:21",
-                "file": "BS_ATKM"
+                "file": "Ep10-computer-vision-RadioLUG"
             }, {
                 "track": 9,
                 "name": "Systemd",
                 "duration": "1:23:26",
-                "file": "BSFM_TF"
+                "file": "Ep09-Systemd-RadioLUG"
             }, {
                 "track": 8,
                 "name": "Cloud Computing",
                 "duration": "1:31:29",
-                "file": "BSFM_ATKM"
+                "file": "Ep08-Cloud-Computing-RadioLUG"
             }, {
                 "track": 7,
                 "name": "TOR Browser",
                 "duration": "52:05",
-                "file": "AC_ATI"
+                "file": "Ep07-TOR-Browser-RadioLUG"
             }, {
                 "track": 6,
                 "name": "Cryptography",
                 "duration": "1:06:36",
-                "file": "AC_ATKMTake_1"
+                "file": "Ep06-Cryptography-RadioLUG"
             }, {
                 "track": 5,
                 "name": "Web Scarping with Python",
                 "duration": "57:27",
-                "file": "AC_ATKMTake_2"
+                "file": "Ep05-Web-Scarping-with-Python-RadioLUG"
             }, {
                 "track": 4,
                 "name": "C Programming Language",
                 "duration": "1:02:56",
-                "file": "AC_M"
+                "file": "Ep04-RadioLUG-C-Programming-Language"
             }, {
                 "track": 3,
                 "name": "Embedded Linux",
                 "duration": "1:01:36",
-                "file": "AC_TSOWAfucked_up"
+                "file": "Ep03-Embedded-Linux"
             }, {
                 "track": 2,
                 "name": "git",
                 "duration": "1:02:11",
-                "file": "PNY04-05_M"
+                "file": "Ep02-git"
             }, {
                 "track": 1,
                 "name": "Natural Language Processing",
                 "duration": "1:16:30",
-                "file": "PNY04-05_OTW"
+                "file": "Ep01-NLP"
             }, {
                 "track": 0,
                 "name": "Shiraze ShirazLUG!",
                 "duration": "05:31",
-                "file": "PNY04-05_T"
+                "file": "Ep00-Shiraze-ShirazLUG"
             }],
             buildPlaylist = $(tracks).each(function(key, value) {
                 var trackNumber = value.track,
