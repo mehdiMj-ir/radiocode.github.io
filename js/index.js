@@ -22,11 +22,11 @@ jQuery(function ($) {
             playing = false,
             mediaPath = 'https://dashty.ir/podcast/',
             extension = '',
-            tracks = [{
-                "track": 12,
-                "name": "Semantic Web",
-                "duration": "1:02:52",
-                "file": "Ep12-Semantic-Web-RadioLUG"
+            tracks = [ {
+                "track": 13,
+                "name": "GNU glossary and philosophy of Free Software",
+                "duration": "1:07:55",
+                "file": "Ep13-an-overview-on-GNU-glossary-of-and-philosophy-of-Free-Software-RadioLUG"
             }, {
                 "track": 11,
                 "name": "GODOT - Game Engein!",
