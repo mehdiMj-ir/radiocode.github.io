@@ -28,6 +28,11 @@ jQuery(function ($) {
                 "duration": "1:07:55",
                 "file": "Ep13-an-overview-on-GNU-glossary-of-and-philosophy-of-Free-Software-RadioLUG"
             }, {
+                "track": 12,
+                "name": "Semantic Web",
+                "duration": "1:02:52",
+                "file": "Ep12-Semantic-Web-RadioLUG"
+            }, {
                 "track": 11,
                 "name": "GODOT - Game Engein!",
                 "duration": "56:29",
