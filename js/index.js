@@ -23,6 +23,11 @@ jQuery(function ($) {
             mediaPath = 'https://dashty.ir/podcast/',
             extension = '',
             tracks = [ {
+                "track": 14,
+                "name": "Coding Module Driver for Linux Kernel",
+                "duration": "1:05:10",
+                "file": "Ep14-coding-module-driver-for-linux-kernel-RadioLUG"
+            }, {
                 "track": 13,
                 "name": "GNU glossary and philosophy of Free Software",
                 "duration": "1:07:55",
