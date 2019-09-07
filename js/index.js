@@ -22,7 +22,11 @@ jQuery(function ($) {
             playing = false,
             mediaPath = 'http://astateofcode.ir/podcast/',
             extension = '',
-            tracks = [ {
+            tracks = [  "track": 15,
+                "name": "Fazi Logic",
+                "duration": "1:09:46",
+                "file": "Ep15-Fazi-logic-RadioLUG.mp3.mp3"
+            },{
                 "track": 14,
                 "name": "Coding Module Driver for Linux Kernel",
                 "duration": "1:05:10",
