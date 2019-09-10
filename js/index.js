@@ -22,7 +22,8 @@ jQuery(function ($) {
             playing = false,
             mediaPath = 'http://astateofcode.ir/podcast/',
             extension = '',
-            tracks = [ { "track": 15,
+            tracks = [ {
+		"track": 15,
                 "name": "Fazi Logic",
                 "duration": "1:09:46",
                 "file": "Ep15-Fazi-logic-RadioLUG.mp3.mp3"
