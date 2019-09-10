@@ -20,7 +20,7 @@ jQuery(function ($) {
         // initialize playlist and controls
         var index = 0,
             playing = false,
-            mediaPath = 'http://astateofcode.ir/podcast/',
+            mediaPath = 'https://astateofcode.ir/podcast/',
             extension = '',
             tracks = [ {
 		"track": 15,
