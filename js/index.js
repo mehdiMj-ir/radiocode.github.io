@@ -24,9 +24,9 @@ jQuery(function ($) {
             extension = '',
             tracks = [ {
 		"track": 15,
-                "name": "Fazi Logic",
+                "name": "Fuzzy Logic",
                 "duration": "1:09:46",
-                "file": "Ep15-Fazi-logic-RadioLUG.mp3"
+                "file": "Ep15-Fuzzy-logic-RadioLUG.mp3"
             },{
                 "track": 14,
                 "name": "Coding Module Driver for Linux Kernel",
