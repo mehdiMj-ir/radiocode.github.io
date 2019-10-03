@@ -27,12 +27,12 @@ jQuery(function ($) {
 		"track": 16,
                 "name": "Docker",
                 "duration": "1:35:19",
-                "file": "Ep16-Docker-RadioLUG.mp3"
+                "file": "Ep16-Docker-RadioLUG"
             },{
 		"track": 15,
                 "name": "Fuzzy Logic",
                 "duration": "1:09:46",
-                "file": "Ep15-Fuzzy-logic-RadioLUG.mp3"
+                "file": "Ep15-Fuzzy-logic-RadioLUG"
             },{
                 "track": 14,
                 "name": "Coding Module Driver for Linux Kernel",
