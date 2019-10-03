@@ -14,7 +14,8 @@ jQuery(function ($) {
                 'current-time',
                 'duration',
                 'mute',
-                'volume'
+                'volume',
+		'download'
             ]
         });
         // initialize playlist and controls
