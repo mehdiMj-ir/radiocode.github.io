@@ -24,6 +24,11 @@ jQuery(function ($) {
             mediaPath = 'https://astateofcode.ir/podcast/',
             extension = '',
             tracks = [{
+		"track": 17,
+                "name": "open source hardware!",
+                "duration": "54:24",
+                "file": "Ep17-open-source-hardware-RadioLUG"
+            },{
 		"track": 16,
                 "name": "Docker",
                 "duration": "1:35:19",
