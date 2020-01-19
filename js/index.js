@@ -24,6 +24,11 @@ jQuery(function ($) {
             mediaPath = 'https://astateofcode.ir/podcast/',
             extension = '',
             tracks = [{
+		"track": 19,
+                "name": "Ethical-Hacking...",
+                "duration": "1:00:40",
+                "file": "Ep19-Ethical-Hacking-RadioLUG"
+            },{
 		"track": 18,
                 "name": "WebRTC...",
                 "duration": "1:00:40",
