@@ -25,8 +25,8 @@ jQuery(function ($) {
             extension = '',
             tracks = [{
 		"track": 19,
-                "name": "Ethical-Hacking...",
-                "duration": "1:00:40",
+                "name": "ₑₜₕᵢcₐₗ ₕₐcₖᵢₙg...",
+                "duration": "1:08:44",
                 "file": "Ep19-Ethical-Hacking-RadioLUG"
             },{
 		"track": 18,
